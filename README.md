@@ -1,4 +1,4 @@
-# CE_AI-ToDo-Liste
+# CE_AI-Ubersetzer
 
 - ToDo Liste
 - KI-Karteikarten
